@@ -1,16 +1,6 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1504
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Menlo-Regular;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;}
-{\*\expandedcolortbl;\csgray\c100000;\csgray\c0;\csgray\c100000;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+To run the program, make sure the csv and java file are in the same directory.
 
-\f0\fs24 \cf0 To run the program, make sure the csv and java file are in the same directory.\
-\
-Using the terminal, navigate to the directory and then do the following:\
-\
-javac EmployeeSystem.java\
+Using the terminal, navigate to the directory and then do the following:
 
-\f1\fs22 \cf2 \cb3 \CocoaLigature0 java EmployeeSystem employees.csv
-\f0\fs24 \cf0 \cb1 \CocoaLigature1 \
-}
+javac EmployeeSystem.java
+java EmployeeSystem employees.csv
