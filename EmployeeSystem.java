@@ -66,7 +66,7 @@ public class EmployeeSystem {
       System.out.println("and there name is: " + data[0]);
 
       if (data.length > 4 && data[4] != null) {
-       System.out.println(" [" + data[4] + "]");
+       System.out.println("[" + data[4] + "]");
       } else {}
       
      } else {
